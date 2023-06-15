@@ -1,0 +1,28 @@
+.html {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 90%;
+  }
+
+  /* form styling */
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 5px double #333;
+    border-radius: 2px 2px 2px 15px;
+  }
+  
+  /* form button styling */
+  
+  input[type=submit]{
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px 15px 15px 15px;
+  }
